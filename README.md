@@ -26,7 +26,7 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [EndNote](https://endnote.com/)
 - [Mendeley](https://www.mendeley.com/)
 - [Zotero](https://www.zotero.org/)
-### Writing Tools
+### Writing & Editing Tools
 - [Grammarly](https://www.grammarly.com/)
 - [Hemingway Editor](https://hemingwayapp.com/)
 - [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/)
