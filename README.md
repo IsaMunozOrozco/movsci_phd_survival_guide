@@ -11,12 +11,16 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [Networking](#networking)
 
 ## Research
+- [Grad Coach (YouTube Channel)](https://www.youtube.com/@GradCoach/featured)
 ### Quantitative Approaches & Tools
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
 - R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
   - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
+  - [ProfAndyField (YouTube Channel)](https://www.youtube.com/@ProfAndyField)
 ### Qualitative Approaches & Tools
+- [Dedoose](https://www.dedoose.com/) - crossplatform for analyzing qualitative and mixed methods research
+- [MAXQDA](https://www.maxqda.com/) - qualitative data analysis software
 - [NVivo](https://lumivero.com/products/nvivo/) - qualitative data analysis software
 ## Writing
 ### Lit Review Tools
