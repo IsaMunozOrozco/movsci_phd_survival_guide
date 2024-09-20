@@ -3,15 +3,15 @@ Resources and tools you need to succeed in a PhD related to understanding human 
 
 ## Table of Contents
 - [Data Collection](#data-collection)
-- [Data Management](data-management)
-- [Data Processing](data-processing)
-- [Data Analysis](data-analysis)
-- [Writing](writing)
-- [Reference Managers](reference-managers)
-- [Funding](funding)
-- [Teaching](teaching)
-- [Conferences & Professional Development](conferences-&-professional-development)
-- [Networking](networking)
+- [Data Management](#data-management)
+- [Data Processing](#data-processing)
+- [Data Analysis](#data-analysis)
+- [Writing](#writing)
+- [Reference Managers](#reference-managers)
+- [Funding](#funding)
+- [Teaching](#teaching)
+- [Conferences & Professional Development](#conferences-&-professional-development)
+- [Networking](#networking)
 
 ## Data Collection
 ### Marker-based Motion Capture
