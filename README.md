@@ -2,36 +2,39 @@
 Resources and tools you need to succeed in a PhD related to understanding human movement. Note: this document is not a comprehensive list, and is frequently updated. 
 
 ## Table of Contents
-- [Data Collection](#data-collection)
-- [Data Management](#data-management)
-- [Data Processing](#data-processing)
-- [Data Analysis](#data-analysis)
+- [Research](#research)
 - [Writing](#writing)
 - [Reference Managers](#reference-managers)
 - [Funding](#funding)
 - [Teaching](#teaching)
-- [Conferences & Professional Development](#conferences-&-professional-development)
+- [Conferences & Professional Development](#conferences-and-professional-development)
 - [Networking](#networking)
 
-## Data Collection
-### Marker-based Motion Capture
-### Marker-less Motion Capture
-### Posturography
-### Electromyography
-## Data Management
-## Data Processing
-## Data Analysis
+## Research
+### Quantitative Approaches & Tools
+- [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
+- R and RStudio - statistical analysis and data visualization software
+  - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
+  - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
+### Qualitative Approaches & Tools
+- [NVivo](https://lumivero.com/products/nvivo/) - qualitative data analysis software
 ## Writing
+### Lit Review Tools
+- [Covidence](https://www.covidence.org/)
+- [Research Rabbit](https://www.researchrabbit.ai/)
 ### Reference Managers
-- [Zotero](https://www.zotero.org/)
 - [EndNote](https://endnote.com/)
+- [Mendeley](https://www.mendeley.com/)
+- [Zotero](https://www.zotero.org/)
 ### Writing Tools
 - [Grammarly](https://www.grammarly.com/)
 - [Hemingway Editor](https://hemingwayapp.com/)
 - [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/)
 ## Funding
+- [National Science Foundation Graduate Research Fellowships Program | NSF GRFP](https://www.nsfgrfp.org/)
+  - [NSF GRFP Examples by Alex Lang](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0)
 ## Teaching
-## Conferences & Professional Development
+## Conferences and Professional Development
 ### Biomechanics Conferences
 - [American Society of Biomechanics | ASB](https://asbweb.org/)
 - [International Society of Biomechanics | ISB](https://www.isbweb.org/)
