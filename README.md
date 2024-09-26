@@ -80,6 +80,7 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 ## PRODUCTIVITY/OTHER
 - [PhD and Productivity - YouTube Channel](https://www.youtube.com/@PhDandProductivity)
 - [Andy Stapleton - YouTube Channel](https://www.youtube.com/@DrAndyStapleton)
+- [Justin Sung - YouTube Channel](https://www.youtube.com/@JustinSung)
 - [Goblin Tools](https://goblin.tools/)
 - [Pomodoro Timer](https://pomofocus.io/)
 - [BioDigitial](https://human.biodigital.com/explore)
