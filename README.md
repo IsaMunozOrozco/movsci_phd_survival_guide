@@ -27,6 +27,9 @@ Resources and tools to succeed in a PhD related to understanding human movement.
   - [Finding and Using Health Statistics](https://www.nlm.nih.gov/oet/ed/stats/index.html)
   - [UNData](https://data.un.org/Default.aspx)
   - [Google Public Data](https://www.google.com/publicdata/directory)
+  - [FigShare](https://figshare.com/)
+  - [University of Michigan Deep Blue Data](https://deepblue.lib.umich.edu/data)
+  - [Open Access Directory Data Repositories](https://oad.simmons.edu/oadwiki/Data_repositories)
 #### *Data Processing* 
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
 - R and RStudio - statistical analysis and data visualization software
