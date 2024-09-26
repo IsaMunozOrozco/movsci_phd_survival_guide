@@ -9,11 +9,12 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [Teaching](#teaching)
 - [Conferences & Professional Development](#conferences-and-professional-development)
 - [Networking](#networking)
+- [Productivity/Other](#productivity/other)
 
 ## RESEARCH
 - [Grad Coach (YouTube Channel)](https://www.youtube.com/@GradCoach/featured)
 ### Quantitative Approaches
-#### *Data Collection Methods*
+#### *Data Collection*
 - Electromyography (EMG)
   - [SENIAM Project](http://www.seniam.org/) - emg best practices and procedures
   - [The ABC of EMG Handbook](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf)
@@ -22,17 +23,26 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - Motion Capture
 - Sensors
 - Standarized Assessments
-#### *Software*
+- Open Source Data
+  - [Finding and Using Health Statistics](https://www.nlm.nih.gov/oet/ed/stats/index.html)
+  - [UNData](https://data.un.org/Default.aspx)
+  - [Google Public Data](https://www.google.com/publicdata/directory)
+#### *Data Processing* 
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
 - R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
   - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
   - [ProfAndyField (YouTube Channel)](https://www.youtube.com/@ProfAndyField)
+  - [R Graph Gallery](https://r-graph-gallery.com/)
+  - [R for Data Science](https://r4ds.had.co.nz/index.html)
 ### Qualitative Approaches & Tools
-#### *Software*
+#### *Data Processing & Analysis*
 - [Dedoose](https://www.dedoose.com/) - crossplatform for analyzing qualitative and mixed methods research
 - [MAXQDA](https://www.maxqda.com/) - qualitative data analysis software
 - [NVivo](https://lumivero.com/products/nvivo/) - qualitative data analysis software
+### Data Analysis & Visualization
+- [FlowingData](https://flowingdata.com/about/)
+- [Arizona State University Data Analysis & Visualization in Research](https://tutorials.lib.asu.edu/tutorials/rise/data_analysis_visualization/index.html#/)
 ## WRITING
 ### Lit Review Tools
 - [Covidence](https://www.covidence.org/)
@@ -45,10 +55,14 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [Grammarly](https://www.grammarly.com/)
 - [Hemingway Editor](https://hemingwayapp.com/)
 - [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/)
-## FUNDING
+## FUNDING & Grants
 - [National Science Foundation Graduate Research Fellowships Program | NSF GRFP](https://www.nsfgrfp.org/)
   - [NSF GRFP Examples by Alex Lang](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0)
+- [Grants.gov](https://grants.gov/)
 ## TEACHING
+- [University of Michigan Center for Research on Learning and Teaching](https://crlt.umich.edu/)
+- [Cornell University Center for Teaching Innovation](https://teaching.cornell.edu/)
+- [Georgetown University Center for New Designs in Learning and Scholarship](https://cndls.georgetown.edu/resources/)
 ## CONFERENCES and PROFESSIONAL DEVELOPMENT
 ### Biomechanics Conferences
 - [American Society of Biomechanics | ASB](https://asbweb.org/)
@@ -60,3 +74,9 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 ## NETWORKING
 - [Black Biomechanists Association | BBA](https://bba.membershiptoolkit.com/)
 - [Latinx in Biomechanix | LiB](https://linktr.ee/latinxbiomech)
+## PRODUCTIVITY/OTHER
+- [PhD and Productivity - YouTube Channel](https://www.youtube.com/@PhDandProductivity)
+- [Andy Stapleton - YouTube Channel](https://www.youtube.com/@DrAndyStapleton)
+- [Goblin Tools](https://goblin.tools/)
+- [Pomodoro Timer](https://pomofocus.io/)
+- [BioDigitial](https://human.biodigital.com/explore)
