@@ -13,6 +13,7 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 
 ## RESEARCH
 - [Grad Coach (YouTube Channel)](https://www.youtube.com/@GradCoach/featured)
+- [Tress Academics - PhD Resources](https://tressacademic.com/resources/)
 ### Quantitative Approaches
 #### *Data Collection*
 - Electromyography (EMG)
@@ -21,6 +22,7 @@ Resources and tools to succeed in a PhD related to understanding human movement.
   - [The use of surface electromyography in biomechanics by Carlo De Luca](https://delsys.com/downloads/TUTORIAL/the-use-of-semg-in-biomechanics.pdf)
 - Posturography or Stabilogram
 - Motion Capture
+  - [OpenPose](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_00_index.html)
 - Sensors
 - Standarized Assessments
 - Open Source Data
@@ -32,18 +34,21 @@ Resources and tools to succeed in a PhD related to understanding human movement.
   - [Open Access Directory Data Repositories](https://oad.simmons.edu/oadwiki/Data_repositories)
 #### *Data Processing* 
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
+  - [MathWorks](https://www.mathworks.com/videos.html#matlabgetstarted)
 - R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
   - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
   - [ProfAndyField (YouTube Channel)](https://www.youtube.com/@ProfAndyField)
   - [R Graph Gallery](https://r-graph-gallery.com/)
   - [R for Data Science](https://r4ds.had.co.nz/index.html)
+  - [An R companion to Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-R-site/)
 ### Qualitative Approaches & Tools
 #### *Data Processing & Analysis*
 - [Dedoose](https://www.dedoose.com/) - crossplatform for analyzing qualitative and mixed methods research
 - [MAXQDA](https://www.maxqda.com/) - qualitative data analysis software
 - [NVivo](https://lumivero.com/products/nvivo/) - qualitative data analysis software
 ### Data Analysis & Visualization
+- [Data Visualization Catalogue](https://datavizcatalogue.com/)
 - [FlowingData](https://flowingdata.com/about/)
 - [Arizona State University Data Analysis & Visualization in Research](https://tutorials.lib.asu.edu/tutorials/rise/data_analysis_visualization/index.html#/)
 ## WRITING
@@ -58,6 +63,9 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [Grammarly](https://www.grammarly.com/)
 - [Hemingway Editor](https://hemingwayapp.com/)
 - [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/)
+- [Qualitative Research Writing Resources](https://guides.lib.unc.edu/qual/writing)
+### Publishing
+- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&referrer=target%3Dhttps:%2F%2Fjcr.clarivate.com%2Fjcr%2Fhome%3Fapp%3Djcr%26referrer%3Dtarget%253Dhttps:%252F%252Fjcr.clarivate.com%252Fjcr%252Fhome%26Init%3DYes%26authCode%3Dnull%26SrcApp%3DIC2LS&Init=Yes&authCode=null&SrcApp=IC2LS)
 ## FUNDING & Grants
 - [National Science Foundation Graduate Research Fellowships Program | NSF GRFP](https://www.nsfgrfp.org/)
   - [NSF GRFP Examples by Alex Lang](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit?gid=0#gid=0)
@@ -74,6 +82,8 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [American College of Sports Medicine | ACSM](https://www.acsm.org/annual-meeting/annual-home)
 - [North American Society for the Psychology of Sport and Physical Activity | NASPSPA](https://www.naspspa.com/about-naspspa/)
 - [The International Society of Posture and Gait Research | ISPGR](https://ispgr.org/)
+### Other Conferences
+- [Society of Neuroscience](https://www.sfn.org/)
 ## NETWORKING
 - [Black Biomechanists Association | BBA](https://bba.membershiptoolkit.com/)
 - [Latinx in Biomechanix | LiB](https://linktr.ee/latinxbiomech)
@@ -84,3 +94,5 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [Goblin Tools](https://goblin.tools/)
 - [Pomodoro Timer](https://pomofocus.io/)
 - [BioDigitial](https://human.biodigital.com/explore)
+- [GetBodySmart](https://www.getbodysmart.com/)
+- [The Brain from Top to Bottom](https://thebrain.mcgill.ca/flash/d/d_06/d_06_cr/d_06_cr_mou/d_06_cr_mou.html)
