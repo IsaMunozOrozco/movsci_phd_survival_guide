@@ -14,8 +14,7 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 ## RESEARCH
 - [Grad Coach (YouTube Channel)](https://www.youtube.com/@GradCoach/featured)
 - [Tress Academics - PhD Resources](https://tressacademic.com/resources/)
-### Quantitative Approaches
-#### *Data Collection*
+### Data Collection
 - Electromyography (EMG)
   - [SENIAM Project](http://www.seniam.org/) - emg best practices and procedures
   - [The ABC of EMG Handbook](https://hermanwallace.com/download/The_ABC_of_EMG_by_Peter_Konrad.pdf)
@@ -32,9 +31,10 @@ Resources and tools to succeed in a PhD related to understanding human movement.
   - [FigShare](https://figshare.com/)
   - [University of Michigan Deep Blue Data](https://deepblue.lib.umich.edu/data)
   - [Open Access Directory Data Repositories](https://oad.simmons.edu/oadwiki/Data_repositories)
-#### *Data Processing* 
+### Data Processing (both Quant and Qual tools)
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
   - [MathWorks](https://www.mathworks.com/videos.html#matlabgetstarted)
+  - [MATLAB YouTube](https://www.youtube.com/@MATLAB)
 - R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
   - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
@@ -42,11 +42,14 @@ Resources and tools to succeed in a PhD related to understanding human movement.
   - [R Graph Gallery](https://r-graph-gallery.com/)
   - [R for Data Science](https://r4ds.had.co.nz/index.html)
   - [An R companion to Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-R-site/)
-### Qualitative Approaches & Tools
-#### *Data Processing & Analysis*
 - [Dedoose](https://www.dedoose.com/) - crossplatform for analyzing qualitative and mixed methods research
 - [MAXQDA](https://www.maxqda.com/) - qualitative data analysis software
 - [NVivo](https://lumivero.com/products/nvivo/) - qualitative data analysis software
+- YouTube channels with data processing, coding, etc. tools and tutorials
+  - [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
+  - [Data Professor](https://www.youtube.com/@DataProfessor/playlists)
+  - [365 Data Science](https://www.youtube.com/@365DataScience/playlists)
+  - 
 ### Data Analysis & Visualization
 - [Data Visualization Catalogue](https://datavizcatalogue.com/)
 - [FlowingData](https://flowingdata.com/about/)
