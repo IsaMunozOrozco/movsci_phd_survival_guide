@@ -35,6 +35,7 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
   - [MathWorks](https://www.mathworks.com/videos.html#matlabgetstarted)
   - [MATLAB YouTube](https://www.youtube.com/@MATLAB)
+  - [MATLAB Source Codes](https://people.sc.fsu.edu/~jburkardt/m_src/m_src.html)
 - R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
   - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
