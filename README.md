@@ -83,10 +83,15 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [Cornell University Center for Teaching Innovation](https://teaching.cornell.edu/)
 - [Georgetown University Center for New Designs in Learning and Scholarship](https://cndls.georgetown.edu/resources/)
 ## CONFERENCES and PROFESSIONAL DEVELOPMENT
-### Biomechanics Conferences
+### Biomechanics 
+#### Conferences
 - [American Society of Biomechanics | ASB](https://asbweb.org/)
 - [International Society of Biomechanics | ISB](https://www.isbweb.org/)
-### Movement Science Conferences
+#### Professional Development
+- [The Biomechanist](https://biomechanist.net/)
+- BOOM - Biomechanics on Our Minds Podcast
+### Movement Science 
+#### Conferences
 - [American College of Sports Medicine | ACSM](https://www.acsm.org/annual-meeting/annual-home)
 - [North American Society for the Psychology of Sport and Physical Activity | NASPSPA](https://www.naspspa.com/about-naspspa/)
 - [The International Society of Posture and Gait Research | ISPGR](https://ispgr.org/)
