@@ -22,6 +22,8 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - Posturography or Stabilogram
 - Motion Capture
   - [OpenPose](https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_00_index.html)
+- Biomechanical Modeling, Simulation, & Analysis
+  - [OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview)
 - Sensors
 - Standarized Assessments
 - Open Source Data
@@ -32,6 +34,8 @@ Resources and tools to succeed in a PhD related to understanding human movement.
   - [University of Michigan Deep Blue Data](https://deepblue.lib.umich.edu/data)
   - [Open Access Directory Data Repositories](https://oad.simmons.edu/oadwiki/Data_repositories)
 ### Data Processing (both Quant and Qual tools)
+- Visual3D
+  - [V3D Tutorials](https://wiki.has-motion.com/doku.php?id=visual3d:tutorials:list_of_tutorials)
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
   - [MathWorks](https://www.mathworks.com/videos.html#matlabgetstarted)
   - [MATLAB YouTube](https://www.youtube.com/@MATLAB)
