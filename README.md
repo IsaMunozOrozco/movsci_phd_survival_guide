@@ -1,5 +1,5 @@
 # movsci_phd_survival_guide
-Resources and tools to succeed in a PhD related to understanding human movement. Note: this document is not a comprehensive list, and is frequently updated. 
+Free resources and tools to help you succeed in a PhD related to understanding human movement. Note: this document is not a comprehensive list, and is frequently updated. 
 
 ## Table of Contents
 - [Research](#research)
@@ -54,20 +54,19 @@ Resources and tools to succeed in a PhD related to understanding human movement.
   - [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
   - [Data Professor](https://www.youtube.com/@DataProfessor/playlists)
   - [365 Data Science](https://www.youtube.com/@365DataScience/playlists)
-  - 
 ### Data Analysis & Visualization
 - [Data Visualization Catalogue](https://datavizcatalogue.com/)
 - [FlowingData](https://flowingdata.com/about/)
 - [Arizona State University Data Analysis & Visualization in Research](https://tutorials.lib.asu.edu/tutorials/rise/data_analysis_visualization/index.html#/)
 ## WRITING
-### Lit Review Tools
+### Lit Review 
 - [Covidence](https://www.covidence.org/)
 - [Research Rabbit](https://www.researchrabbit.ai/)
 ### Reference Managers
 - [EndNote](https://endnote.com/)
 - [Mendeley](https://www.mendeley.com/)
 - [Zotero](https://www.zotero.org/)
-### Writing & Editing Tools
+### Writing & Editing
 - [Grammarly](https://www.grammarly.com/)
 - [Hemingway Editor](https://hemingwayapp.com/)
 - [Manchester Academic Phrasebook](https://www.phrasebank.manchester.ac.uk/)
@@ -97,8 +96,8 @@ Resources and tools to succeed in a PhD related to understanding human movement.
 - [The International Society of Posture and Gait Research | ISPGR](https://ispgr.org/)
 - [International Motor Development Research Consortium | I-MDRC](https://www.i-mdrc.com/meetings)
 ### Other Conferences
-- [Society of Neuroscience](https://www.sfn.org/)
-- [American Society of Neurorehabilitation](https://www.asnr.com/i4a/pages/index.cfm?pageid=3294)
+- [Society of Neuroscience | SfN](https://www.sfn.org/)
+- [American Society of Neurorehabilitation | ASNR](https://www.asnr.com/i4a/pages/index.cfm?pageid=3294)
 ## NETWORKING
 - [Black Biomechanists Association | BBA](https://bba.membershiptoolkit.com/)
 - [Latinx in Biomechanix | LiB](https://linktr.ee/latinxbiomech)
