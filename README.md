@@ -86,6 +86,7 @@ Free resources and tools to help you succeed in a PhD related to understanding h
 #### Conferences
 - [American Society of Biomechanics | ASB](https://asbweb.org/)
 - [International Society of Biomechanics | ISB](https://www.isbweb.org/)
+- [International Society of Biomechanics in Sports | ISBS](https://isbs.org/)
 #### Professional Development
 - [The Biomechanist](https://biomechanist.net/)
 - BOOM - Biomechanics on Our Minds Podcast
@@ -95,12 +96,25 @@ Free resources and tools to help you succeed in a PhD related to understanding h
 - [North American Society for the Psychology of Sport and Physical Activity | NASPSPA](https://www.naspspa.com/about-naspspa/)
 - [The International Society of Posture and Gait Research | ISPGR](https://ispgr.org/)
 - [International Motor Development Research Consortium | I-MDRC](https://www.i-mdrc.com/meetings)
+- [National Academy of Kinesiology | NAK](https://nationalacademyofkinesiology.org/)
 ### Other Conferences
 - [Society of Neuroscience | SfN](https://www.sfn.org/)
 - [American Society of Neurorehabilitation | ASNR](https://www.asnr.com/i4a/pages/index.cfm?pageid=3294)
+- [Society for the Advancement of Chicanos/Hispanics and Native Americans in Science | SACNAS](https://www.sacnas.org/)
+- [The Gait and Clinical Movement Analysis Society](https://www.gcmas.org/annual_conference_information)
+#### Professional Development
+- Gears of Progress Podcast
+- Huberman Lab Podcast
+- The PhD Life Raft Podcast
+- How to PhD Podcast
+- Ologies Podcast
+- The Wellness Paradox Podcast
+- INside the OUTcomes: A Rehabilitation Research Podcast
 ## NETWORKING
 - [Black Biomechanists Association | BBA](https://bba.membershiptoolkit.com/)
 - [Latinx in Biomechanix | LiB](https://linktr.ee/latinxbiomech)
+- [Cientifico Latino](https://www.cientificolatino.com/)
+- [International Women in Biomechanics](https://www.intwomenbiomech.org/)
 ## PRODUCTIVITY/OTHER
 - [PhD and Productivity - YouTube Channel](https://www.youtube.com/@PhDandProductivity)
 - [Andy Stapleton - YouTube Channel](https://www.youtube.com/@DrAndyStapleton)
