@@ -89,7 +89,7 @@ Free resources and tools to help you succeed in a PhD related to understanding h
 - [International Society of Biomechanics in Sports | ISBS](https://isbs.org/)
 #### Professional Development
 - [The Biomechanist](https://biomechanist.net/)
-- BOOM - Biomechanics on Our Minds Podcast
+- Biomechanics on Our Minds (BOOM) Podcast
 ### Movement Science 
 #### Conferences
 - [American College of Sports Medicine | ACSM](https://www.acsm.org/annual-meeting/annual-home)
@@ -121,6 +121,6 @@ Free resources and tools to help you succeed in a PhD related to understanding h
 - [Justin Sung - YouTube Channel](https://www.youtube.com/@JustinSung)
 - [Goblin Tools](https://goblin.tools/)
 - [Pomodoro Timer](https://pomofocus.io/)
-- [BioDigitial](https://human.biodigital.com/explore)
-- [GetBodySmart](https://www.getbodysmart.com/)
+- [BioDigitial](https://human.biodigital.com/explore) - interative 3D human anatomy
+- [GetBodySmart](https://www.getbodysmart.com/) - interative anatomy and physiology
 - [The Brain from Top to Bottom](https://thebrain.mcgill.ca/flash/d/d_06/d_06_cr/d_06_cr_mou/d_06_cr_mou.html)
