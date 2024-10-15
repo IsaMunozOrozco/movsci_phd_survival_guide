@@ -1,5 +1,5 @@
 # movsci_phd_survival_guide
-Free resources and tools to help you succeed in a PhD related to understanding human movement. Note: this document is not a comprehensive list, and is frequently updated. 
+Free resources and tools to help you succeed in a PhD (or even Master's degree) related to understanding human movement. Note: this document is not a comprehensive list, and is frequently updated. 
 
 ## Table of Contents
 - [Research](#research)
