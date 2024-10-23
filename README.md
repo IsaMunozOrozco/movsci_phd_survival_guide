@@ -34,14 +34,19 @@ Free resources and tools to help you succeed in a PhD (or even Master's degree) 
   - [FigShare](https://figshare.com/)
   - [University of Michigan Deep Blue Data](https://deepblue.lib.umich.edu/data)
   - [Open Access Directory Data Repositories](https://oad.simmons.edu/oadwiki/Data_repositories)
-### Data Processing (both Quant and Qual tools)
+### Data Processing
 - Visual3D
   - [V3D Tutorials](https://wiki.has-motion.com/doku.php?id=visual3d:tutorials:list_of_tutorials)
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - multi-paradigm programming language and numerical computing software
   - [MathWorks](https://www.mathworks.com/videos.html#matlabgetstarted)
   - [MATLAB YouTube](https://www.youtube.com/@MATLAB)
   - [MATLAB Source Codes](https://people.sc.fsu.edu/~jburkardt/m_src/m_src.html)
-- R and RStudio - statistical analysis and data visualization software
+- YouTube channels with data processing, coding, etc. tools and tutorials
+  - [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
+  - [Data Professor](https://www.youtube.com/@DataProfessor/playlists)
+  - [365 Data Science](https://www.youtube.com/@365DataScience/playlists)
+### Data Analysis & Visualization
+- - R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
   - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
   - [ProfAndyField (YouTube Channel)](https://www.youtube.com/@ProfAndyField)
@@ -49,13 +54,9 @@ Free resources and tools to help you succeed in a PhD (or even Master's degree) 
   - [R for Data Science](https://r4ds.had.co.nz/index.html)
   - [An R companion to Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-R-site/)
 - [Dedoose](https://www.dedoose.com/) - crossplatform for analyzing qualitative and mixed methods research
+- [Jamovi](https://www.jamovi.org/) - open-source statistical software
 - [MAXQDA](https://www.maxqda.com/) - qualitative data analysis software
 - [NVivo](https://lumivero.com/products/nvivo/) - qualitative data analysis software
-- YouTube channels with data processing, coding, etc. tools and tutorials
-  - [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
-  - [Data Professor](https://www.youtube.com/@DataProfessor/playlists)
-  - [365 Data Science](https://www.youtube.com/@365DataScience/playlists)
-### Data Analysis & Visualization
 - [Data Visualization Catalogue](https://datavizcatalogue.com/)
 - [FlowingData](https://flowingdata.com/about/)
 - [Arizona State University Data Analysis & Visualization in Research](https://tutorials.lib.asu.edu/tutorials/rise/data_analysis_visualization/index.html#/)
