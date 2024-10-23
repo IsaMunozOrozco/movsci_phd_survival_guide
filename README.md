@@ -46,7 +46,7 @@ Free resources and tools to help you succeed in a PhD (or even Master's degree) 
   - [Data Professor](https://www.youtube.com/@DataProfessor/playlists)
   - [365 Data Science](https://www.youtube.com/@365DataScience/playlists)
 ### Data Analysis & Visualization
-- - R and RStudio - statistical analysis and data visualization software
+- R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
   - [MarinStatsLectures - R Programming & Statistics (YouTube Channel)](https://www.youtube.com/@marinstatlectures)
   - [ProfAndyField (YouTube Channel)](https://www.youtube.com/@ProfAndyField)
