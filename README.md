@@ -45,6 +45,8 @@ Free resources and tools to help you succeed in a PhD (or even Master's degree) 
   - [The Coding Train](https://www.youtube.com/@TheCodingTrain/videos)
   - [Data Professor](https://www.youtube.com/@DataProfessor/playlists)
   - [365 Data Science](https://www.youtube.com/@365DataScience/playlists)
+- Machine Learning
+ - [MLU-Explain](https://mlu-explain.github.io/) - machhine learning concepts explained
 ### Data Analysis & Visualization
 - R and RStudio - statistical analysis and data visualization software
   - [R Programming 101 (YouTube Channel)](https://www.youtube.com/@RProgramming101)
@@ -60,6 +62,7 @@ Free resources and tools to help you succeed in a PhD (or even Master's degree) 
 - [Data Visualization Catalogue](https://datavizcatalogue.com/)
 - [FlowingData](https://flowingdata.com/about/)
 - [Arizona State University Data Analysis & Visualization in Research](https://tutorials.lib.asu.edu/tutorials/rise/data_analysis_visualization/index.html#/)
+- [VISUALGO](https://visualgo.net/en) - website that visualizes data structures and algorithms with animations
 ## WRITING
 ### Lit Review 
 - [Covidence](https://www.covidence.org/)
